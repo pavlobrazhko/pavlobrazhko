@@ -1,9 +1,9 @@
 ## Hi there, I'm Pavlo. 👋
 
-A Data Analyst transitioning from 20+ years in Insurance & Risk Management<br>
-based in Ghent, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/yanina-andriienko/)!<br>
+A Data Analyst transitioning from 10+ years in Constraction domain as Mechanical Engineer<br>
+based in Brussels, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/pavlobrazhko/)!<br>
 🌱 I am a [Becode](https://becode.org/) alumni. Batch: BeCode AI & Data Science bootcamp | ARAI 6<br>
-✨ Master in Accounting and Auditing<br>
+✨ Master in Data Science, Big Data<br>
 
 ## Projects I Have Worked On <br>
 ### ✨ Real estate price prediction<br>
@@ -27,4 +27,4 @@ Developed a machine learning model to predict telecom customers' likelihood of c
 
 ## 🔧 Technologies & Tools<br>
 
-🛠️ [Python](https://www.python.org/) | 📊 [Numpy](https://numpy.org/) | 📈 [Pandas](https://pandas.pydata.org/) | 📉 [Matplotlib](https://matplotlib.org/) | 🎨 [Seaborn](https://seaborn.pydata.org/) | 📊 [Plotly](https://plotly.com/) | 🗂️ [Git](https://git-scm.com/) | 🗄️ [SQL](https://www.mysql.com/) | 📊 [Tableau](https://www.tableau.com/) | 📊 [Power BI](https://powerbi.microsoft.com/) | 🕷️ [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | 🧠 [scikit-learn](https://scikit-learn.org/stable/) | 🚀 [FastAPI](https://fastapi.tiangolo.com/) | 🌐 [Streamlit](https://streamlit.io/)
+🛠️ [Python](https://www.python.org/) | 📊 [Numpy](https://numpy.org/) | 📈 [Pandas](https://pandas.pydata.org/) | 📉 [Matplotlib](https://matplotlib.org/) | 📊 [Plotly](https://plotly.com/) | 🗂️ [Git](https://git-scm.com/) | 🗄️ [SQL](https://www.mysql.com/) | 📊 [Power BI](https://powerbi.microsoft.com/) | 🧠 [scikit-learn](https://scikit-learn.org/stable/)
