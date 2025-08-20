@@ -1,8 +1,4 @@
-# pavlobrazhko
-Presentation
-
-
-## Hi there, I'm Yanina. 👋
+## Hi there, I'm Pavlo. 👋
 
 A Data Analyst transitioning from 20+ years in Insurance & Risk Management<br>
 based in Ghent, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/yanina-andriienko/)!<br>
