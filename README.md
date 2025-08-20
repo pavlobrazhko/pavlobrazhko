@@ -1,6 +1,6 @@
 ## Hi there, I'm Pavlo. 👋
 
-A Data Analyst, Data Scientist - transitioning from 10+ years in Constraction domain<br>
+A Data Analyst|Data Scientist<br>
 based in Brussels, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/pavlobrazhko/)!<br>
 🌱 I am a [ULB](https://www.ulb.be/en/programme/2024-ms-bgda) alumni. | MS-BGDA<br>
 ✨ Master in Data Science, Big Data<br>
