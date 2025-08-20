@@ -2,8 +2,9 @@
 
 A Data Analyst transitioning from 10+ years in Constraction domain as Mechanical Engineer<br>
 based in Brussels, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/pavlobrazhko/)!<br>
-🌱 I am a [Becode](https://becode.org/) alumni. Batch: BeCode AI & Data Science bootcamp | ARAI 6<br>
+🌱 I am a [ULB](https://www.ulb.be/en/programme/2024-ms-bgda) alumni. | MS-BGDA<br>
 ✨ Master in Data Science, Big Data<br>
+✨ Master’s in Engineering Science<br>
 
 ## Projects I Have Worked On <br>
 ### ✨ Real estate price prediction<br>
@@ -13,17 +14,6 @@ Utilized scikit-learn's Random Forest Regressor for modeling, web scraping to ga
 - [Part 3 ML to predict real estate prices (solo)](https://github.com/Yanina-Andriienko/immo-eliza-ml)<br>
 - [Part 4 Deployment ML model with Fast API and Streamlit (solo)](https://github.com/Yanina-Andriienko/immo-eliza-deployment)<br>
 
-### ✨ [Churn Prediction](https://github.com/Yanina-Andriienko/Churn-prediction)<br>
-Employed EDA to explore customer data, utilized a Random Forest classifier for churn prediction, and analyzed model performance.<br>
-
-### ✨ [Wine Market Analysis](https://github.com/Yanina-Andriienko/wine-market-analysis)<br>
-Conducted SQL-based analysis on a wine market database to provide insights for improving sales and marketing strategies. Created visualizations using Tableau to present findings. Applied Scrum methodology throughout the project.<br>
-
-### ✨ [Accenture Usecase (in collaboration)](https://public.tableau.com/app/profile/ariana.bik/viz/Dragonyte_analysis/Story1)<br>
-Cleaned and modeled the data, and visualized it using Tableau for market analysis and trend prediction.<br>
-
-### ✨ Usecase: Telecom Tariff Change Prediction (in collaboration)<br>
-Developed a machine learning model to predict telecom customers' likelihood of changing tariffs using Orange dataset. Leveraged XGBoost for modeling, with pandas and scikit-learn for data processing and analysis. Applied SHAP for interpretability of model predictions.<br>
 
 ## 🔧 Technologies & Tools<br>
 
