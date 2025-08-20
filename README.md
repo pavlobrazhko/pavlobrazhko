@@ -1,13 +1,13 @@
 ## Hi there, I'm Pavlo. 👋
 
-A Data Analyst transitioning from 10+ years in Constraction domain as Mechanical Engineer<br>
+A Data Analyst, Data Scientist - transitioning from 10+ years in Constraction domain<br>
 based in Brussels, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/pavlobrazhko/)!<br>
 🌱 I am a [ULB](https://www.ulb.be/en/programme/2024-ms-bgda) alumni. | MS-BGDA<br>
 ✨ Master in Data Science, Big Data<br>
 ✨ Master’s in Engineering Science<br>
 
 ## Projects I Have Worked On <br>
-### ✨ Real estate price prediction<br>
+### ✨ Exploring Spatiotemporal Flanders Traffic Data<br>
 Utilized scikit-learn's Random Forest Regressor for modeling, web scraping to gather data, SQL and pandas for data cleaning, and pandas, matplotlib, seaborn, and Plotly for visual analysis. The application was deployed using Docker, FastAPI, and Streamlit. <br>
 - [Part 1 Webscraping to create a dataset (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scraping-scrapegoat)<br>
 - [Part 2 Analysis (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scrapeGOATS-analysis)<br>
