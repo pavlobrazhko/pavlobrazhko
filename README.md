@@ -11,9 +11,6 @@ A Data Analyst, Data Scientist based in Brussels, Belgium. Let's connect on  [Li
 
 Utilized Python and Pandas for preprocessing and analyzing large spatiotemporal traffic datasets, applied clustering to group lanes, performed exploratory data analysis (EDA) to identify patterns, and used rolling-window interpolation to handle missing data and smooth short-term fluctuations. Reduced data volume 9× while preserving key insights, improving analysis efficiency. <br>
 
-- [Part 1 Webscraping to create a dataset (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scraping-scrapegoat)<br>
-
-
 
 ## 🔧 Technologies & Tools<br>
 
